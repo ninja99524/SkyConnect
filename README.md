@@ -1,0 +1,2 @@
+# SkyConnect
+Decentralized connectivity infrastructure
